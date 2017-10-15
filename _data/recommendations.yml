@@ -1,0 +1,82 @@
+- name: Engin Akyol
+  title: CTO @ Distil Networks
+  image: engin.akyol.jpg
+  content: Kyle joined Distil Networks at a time when we had no coherent data strategy, competing data sources and no real way of guaranteeing data integrity in an environment where our data volume was growing aggressively month over month. Over the course of three years, Kyle implemented his vision into a Data Platform that today supports an entire ecosystem of services and consumers that includes customers, support engineers, security analysts and data scientists. Distil Networks would simply not be anywhere near as effective as it is today were it not for Kyle's vision and technical implementation.  Kyle has made a permanent technical, cultural and personal impact at Distil Networks and will absolutely be a huge positive impact at whatever new opportunities he pursues.
+
+- name: Rami Essaid
+  title: Co-Founder, CEO @ Distil Networks
+  image: rami.essaid.jpg
+  content: I can't say enough great things about Kyle. He is a tremendously hard working, capable and motivated engineer. Kyle will put a project on his back and carry it to the finish line himself if need be and his experience gives everyone confidence that it has been done right.  If you get the chance to work with him, you should.
+
+- name: John Bullard
+  title: VP of Software Engineering @ Distil Networks
+  image: john.bullard.jpg
+  content: Kyle joined the company early, leveraged his years of experience and quickly established his vision for Distil’s data strategy. This required serving multiple data customers, both internal and external, and scaling up systems during a period of hyper growth.  At it’s core Distil is a data company and without Kyle’s data vision, strategy and execution the company could not have achieved the rate of scale that it did.
+
+- name: Siva Venkat Gogineni
+  title: Big Data Engineer @ Distil Networks
+  image: siva.venkat.gogineni.jpg
+  content: Kyle architected several platforms and systems across the organization. Kyle is a smart, commited and a easy going person, who is a pleasure to work with and one of the hardest working individuals I have ever met.  Kyle is a perfect role model for anyone who wants to be a Data Architect. Given a problem, he wouldn't just propose a solution but he would engineer a scalable, reliable and robust solution. He takes ownership and pride in what he delivers and always puts the "extra mile" when needed.  
+
+- name: Jeremy DeGroot
+  title: Big Data Engineer @ Distil Networks
+  image: jeremy.degroot.jpg
+  content: Kyle's breadth and depth of experience with a variety of technologies kept us moving toward solutions, and when we had to develop new expertise Kyle was always the first to dive in. Even more than his experience, Kyle's passion and work ethic stand out.  As a manager, Kyle took an active interest in the professional development of his reports and understands the importance of work-life balance. I also learned more in a few months working with Kyle than in a year or more at some other jobs. He definitely values empowerment of his team members, and it shows in the way he led our team.
+
+- name: Andy Feller
+  title: Senior DevOps Engineer @ Distil Networks
+  image: andy.feller.jpg
+  content: Kyle should be the unit of measurement for anyone looking for a data architect. Working together to manage and scale Distil Network's data warehouse, I admire the dedication that Kyle devoted to building high performance , scalable solutions to difficult data needs. He is someone you can be honest and forthcoming with as he will be the same to you. Any company that Kyle is interested in is better off with him, and I look forward to us working together again.
+
+- name: Tim Hopper
+  title: Data Scientist @ Distil Networks
+  image: tim.hopper.jpg
+  content: Kyle is a skilled data engineer and a great colleague. He thinks carefully about the architecture and requirements of a data system and ships quality products to meet those requirements. He regularly was able to handle work alone that some companies require substantial teams for.  Highly recommended!
+
+- name: William Cox
+  title: Lead Data Scientist @ Distil Networks
+  image: william.cox.jpg
+  content: I worked with Kyle to build a real-time streaming infrastructure for serving machine learning recommendations at scale. The project was on time and on budget and I was fortunate to work with someone like Kyle to accomplish the work. He served as the lead Data Engineer on the project and architected our data stores and infrastructure to process and aggregate tens-of-thousands of records per second to be served into our machine learning models. He is an effective engineer and has a can-do / get-things-done attitude.
+
+- name: Brenton Mallen
+  title: Data Scientist @ Distil Networks
+  image: brenton.mallen.jpg
+  content: Kyle’s work ethic is unparalleled. He is an inspiration to those who are fortunate to work with him and benefit from his experience.
+
+- name: Jonathan Butler
+  title: IT Security Analyst @ Distil Networks
+  image: jonathan.butler.jpg
+  content: Kyle is the shining example of when hard work meets raw talent. As an analyst at Distil, I countlessly leaned on the very data solutions and infrastructures that Kyle built from the ground up.  Kyle has a coveted business acumen that is rare in those that can understand complex problems with such a keen technical aptitude. Even given this, the most impressive part to Kyle I found was his sense of humility and eagerness to listen and learn.
+
+- name: Craig McLaughlin
+  title: CEO/Present @ Bridge2 Solutions
+  image: craig.mclaughlin.jpg
+  content: Kyle was contracted as a Data Architect to redefine our ETL platform at Bridge2 Solutions. He successfully architected, developed and operationalized a new ETL platform which is an integral part of our business. Kyle is passionate about data and technology and he is always willing to go the extra mile. His vast industry and technical experience along with his practical approach to solving problems is invaluable.
+
+- name: Ravi Venkatesan
+  title: CTO @ Bridge2 Solutions
+  image: ravi.venkatesan.jpg
+  content: Kyle is an innovative and very capable architect with deep skills in the Data Architecture space. He helped us evaluate alternatives to traditional ETL platforms and came up with an "out of the box" idea to leverage contemporary technologies, and built a more productive and purpose built solution for us. He is a great team player and has excellent articulation skills, with an ability to break down complex technical and architecture issues in simple and consumable terms. I would readily recommend Kyle for consulting and full time roles in the Data Architecture / Technical Architecture space.
+
+- name: Tony Amaro
+  title: Software Architect @ Bridge2 Solutions
+  image: tony.amaro.jpg
+  content: Kyle performed a superb work as Data Architect at Bridge2 Solutions. Extremely passionate and focused on results, he improved the system overall performance by orders of magnitude. It was a pleasure to work with such a great professional.
+
+- name: Patrick Bolden
+  title: Senior Java/Groovy Developer @ Bridge2 Solutions
+  image: patrick.bolden.jpg
+  content: Working with Kyle over the past year has been a great experience. Not only does he have an outstanding work ethic, but he is quick to learn new technologies and methods. Kyle was an exceptional team member, and did not hesitate to share his knowledge and experience to benefit the team and the company.
+
+- name: Praveena Jayanthi
+  title: Sr. BI / ETL Consultant @ Brdige2 Solutions
+  image: praveena.jayanthi.jpg
+  content: Kyle and I worked together at Bridge2Solutions, where he was a Data Architect and I assisted him in migrating our Talend-Based catalog processing project to a grandeur groovy based platform for catalog processing. He was very talented, hard-working and relentless. There were times when the workload was overwhelming but never heard from Kyle about over-working. With his background in Data and wisdom from various domains, he would make a tremendous addition to any team dealing with humongous data.
+
+
+- name: Mark Riedeman
+  title: Tech Ninja.
+  image: mark.riedeman.jpg
+  content: I realize it’s a peculiar term to apply to a Data Architect, but as Data Architects go, Kyle is pretty fearless. In the time I had the pleasure to work with him, there was not a single challenge he ever let get the best of him. From tracking down a data consistency problem to coordinating a huge data migration project, if it was a challenge Kyle took on, he would keep driving forward until he got the best of it. And in addition to that, he’s a fantastic gentleman to work with.
+
+

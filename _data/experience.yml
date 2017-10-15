@@ -1,0 +1,65 @@
+- dates: Oct 2014 - Oct 2017
+  company: Distil Networks
+  location: Raleigh, NC
+  title: Director of Data Engineering, Big Data Architect
+  description: "<p>Distil provides proactive and precise bot mitigation for web applications, mobile applications and APIs.  Responsible for the architecture, design and development of our Data Platform to support internal and external products.<ul type=circle><li>Design, development, implementation and support of a Cloudera Hadoop ecosystem to ingest, enrich and store 2-3 billion records per day.  The primary components of the Data Platform include HDFS, Hive, Impala, YARN, Zookeeper, Kafka, Hue and was developed using Java 8.  The Data Platform is used by data scientists, analysts, support and engineering for research, analysis and data mining.</li></br><li>Designed, developed and implemented a near real-time, distributed, streaming data pipeline for our machine learning products to improve bot detection.  The system was developed in Java 8 along with Kafka and Redis.</li></br><li>Designed and built job management system for Data Platform using Python, Fabric, Supervisor and crontab.</li></br><li>Built functional prototypes against several NoSQL and distributed databases as a proof of concept for an advanced reporting engine.</li></ul></p>"
+  technology: Java 8, Python, Fabric, Supervisor, Cloudera 5.10, HDFS, Impala, YARN, Kafka, Zookeeper, Hue, Redis, Lua, CrateDB, CitusDB, Cassandra, Couchbase, Riak, PostgreSQL, Redshift,  Linux, Ubuntu, Amazon Web Services, OpenStack, Github
+
+- dates: Nov 2013 - Oct 2014
+  company: Bridge2 Solutions
+  location: Atlanta, GA
+  title: Data Architect, Consultant
+  description: "<p>Bridge2 Solutions provides marketing and fulfillment solutions to leading financial institutions, loyalty rewards programs and Fortune 500 companies.  Contracted to evaluate the existing ETL system and develop a new agile and scalable architecture to support the growing data demands and business requirements.<ul type=circle><li>Design, development and implementation of new, high-performance Groovy ETL integration platform utilizing Groovy, Spring, GPars, MongoDB, Spock and Gradle as the primary technologies.</li></br><li>Migrated existing legacy Talend ETL jobs to new ETL platform to include 25+ merchant data feeds and the generation of several client product catalogs.</li></br><li>Responsible for MongoDB design, development and support to include performance tuning and optimization.  Also responsible for Groovy application performance tuning and optimization.</li></br><li>Creation and support of Rackspace Cloud non-production environments to include ~20 CentOS Linux servers.</li></br><li>Provide technical guidance, code reviews and support for Alpharetta and off shore (Moldova) ETL development teams.</li></ul></p>"
+  technology: Groovy 2.2.2, MongoDB 2.6, Spring, Spock, GPars, Gradle, Git, JSON, XML, Rackspace, Linux
+
+- dates: Apr 2012 - Nov 2013
+  company: 6fusion
+  location: Raleigh, NC
+  title: Data Architect
+  description: "<p>The 6fusion SaaS platform provides metering and reporting on both virtual and physical IT infrastructures along with providing a marketplace for both IT infrastructure sellers and buyers.  As the data architect, I was solely responsible for the architecture, design, development, administration and support of both the SaaS platform databases and Data Warehouse databases to include, but not limited to the following:<ul type=circle><li>Design, development and implementation of PostgreSQL Data Warehouse platform.  Design and development of custom, high-performance ETL tool written in Ruby on Linux platform.  Design and development of custom Reporting Engine written in Ruby to push HTML, CSV and Excel reports.</li></br><li>Responsible for SQL Server 2008 and PostgreSQL database design, development, back-end/front-end developer support, performance tuning & optimization, database administration and Ruby on Rails ActiveRecord migrations for 6fusion SaaS platform.</li></br><li>Design and implemented real-time, dynamic change data capture (CDC) solution for PostgreSQL.</li></br><li>Research and prototype development of Big Data / NoSQL solutions to include Hadoop (Cloudera), Riak, MongoDB and RethinkDB.</li><br><li>Continuous evaluation and development using alternative technologies to include the following: Amazon Web Services, MySQL, Percona Server, SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), Pentaho, Jaspersoft and Roambi.</li></ul></p>"
+  technology: SQL Server 2008, SQL Server Reporting Services, SQL Server Integration Services, PostgreSQL 9.2.4, MySQL 5.5, Ruby on Rails 3.2, Ruby 1.9.3, Linux
+
+- dates: Aug 2009 - Oct 2012
+  company: IBM - Seterus, Inc.
+  location: Research Triangle Park, NC
+  title: Lead Data Architect, Vice President
+  description: "<p>Part of the Business Intelligence Technology team for a mortgage-servicing subsidiary of IBM.  Responsible for the management, data architecture, data integration and the design, development and implementation of the enterprise data warehouse platform to include, but not limited to the following:<ul type=circle><li>Providing technical leadership and solutions architecture for Business Intelligence - Enterprise Data Warehouse team.</li><br><li>Technical lead architect of enterprise Data Governance initiative and development of next generation data warehouse platform using Data Vault™ modeling methodology.</li><br><li>Architecture, development and implementation of a Master Data Management (MDM) solution to integrate data from multiple systems using a transactional queue architecture utilizing SQL Server 2008 and Informatica.</li><br><li>Gathering end-user data and reporting requirements and performing in-depth analysis of source systems, data and complex business rules in order to build optimal solutions to meet the needs of our data consumers.</li><br><li>Designing, developing and implementing various components of our enterprise data warehouse to include:  staging, integration, operational data store (ODS) and analytics databases.  Responsible for all phases of the SDLC including gathering requirements, data/system analysis, data modeling, ETL development, database development, testing, deployment, etc...</li></ul></p>"
+  technology: Informatica PowerCenter 8.1/9.1, Autosys, SQL Server 2005-2008, SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), Sybase PowerDesigner 15.3, Visio Architect, SharePoint
+
+- dates: Sep 1993 - Aug 2009
+  company: Multiple Clients
+  location: USA
+  title: Technical Consultant
+  description: >-
+    <p>Provided technology services focused in Business Intelligence, Data Warehousing, Database Development and Data Integration.  Major projects include, but not limited to the follow:</p>
+        <div class="col-md-11 ml-3"><div class="shortcode-html"><div class="table-responsive"><table class="table table-bordered"><tbody>
+        <tr><td>Chemidex, LLC</td><td>Miller-Coors</td></tr>
+        <tr><td>Roadway Transportation</td><td>Ruf Strategic Solutions</td></tr>
+        <tr><td>CompuCredit Corporation</td><td>Cendian Corporation</td></tr>
+        <tr><td>Qsent, Inc.</td><td>WebMD</td></tr>
+        <tr><td>Electric Lightwave, Inc.</td><td>MCI/Worldcom</td></tr>
+        <tr><td>Bellsouth</td><td>Delta Airlines</td></tr>
+        <tr><td>John Harland</td><td>Astra/Merck Pharmaceuticals</td></tr>
+        <tr><td>Trane Corporation</td><td>IT Corporation</td></tr>
+        </tbody></table></div></div></div>
+  technology: Oracle 8 - 9i, SQL Server 2000 - 2008, SQL Server Integration Services, SQL Server Reporting Services, MySQL, Informatica, Cognos, Business Objecgts, Ruby, Java 1.1 - 6, PHP, RESTful Web Services, HTML, XML, JSON
+
+
+    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
