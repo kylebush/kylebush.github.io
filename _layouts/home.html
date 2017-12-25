@@ -326,8 +326,10 @@
                                 role="tabpanel" aria-labelledby="accordion-07-heading-0{{ counter }}">
                                 <div class="u-accordion__body g-color-black g-bg-gray-light-v5 g-px-5 g-py-30 text-justify">
                                   {{ job.description }}
-                                  <hr></hr>
-                                  <p class="g-font-weight-600 text-justify">{{ job.technology }}</p>
+                                  {% if job.technology %}
+                                    <hr></hr>
+                                    <p class="g-font-weight-600 text-justify">{{ job.technology }}</p>
+                                  {% endif %} 
                                 </div>
                               </div>
                             </div>
