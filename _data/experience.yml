@@ -1,10 +1,16 @@
-- dates: Oct 2017 - Present
-  company: Inivata Inc.
-  location: Research Triangle Park, NC
-  title: VP of IT and Software Development
-  description: "<p>Inivata is a global clinical cancer genomics company employing the precision of circulating tumor DNA (ctDNA) to improve personalized healthcare in oncology.<ul type=circle><li>Providing technical leadership and management for multiple software development teams in RTP, NC and Cambridge, UK, to develop & maintain systems to support high-complexity, genomic lab diagnostic tests.</li></br><li>Improved Software Development Life Cycle (SDLC) by implementing Agile Scrum framework and best practices.</li><br><li>Developed three year strategic plan and budget for Global IT organization to include new systems development, enterprise business systems implementation & integration (Salesforce CRM, Data Warehouse, Finance), systems support and infrastructure services.</li></ul></p>"
+- dates: Jul 2018 - Present
+  company: Fidelity Investments
+  location: Durham, NC
+  title: VP, Cloud Data Engineering
+  description: "<p>Responsible for cloud-based Data and Analytics capabilities for Workplace Investing.</p>"
   technology: 
 
+- dates: Oct 2017 - Jul 2018
+  company: Inivata Inc.
+  location: Research Triangle Park, NC
+  title: VP of IT and Software Development (Consultant)
+  description: "<p>Inivata is a global clinical cancer genomics company employing the precision of circulating tumor DNA (ctDNA) to improve personalized healthcare in oncology.<ul type=circle><li>Providing technical leadership and management for multiple software development teams in RTP, NC and Cambridge, UK, to develop & maintain systems to support high-complexity, genomic lab diagnostic tests.</li></br><li>Improved Software Development Life Cycle (SDLC) by implementing Agile Scrum framework and best practices.</li><br><li>Developed three year strategic plan and budget for Global IT organization to include new systems development, enterprise business systems implementation & integration (Salesforce CRM, Data Warehouse, Finance), systems support and infrastructure services.</li></ul></p>"
+  technology: 
 
 - dates: Oct 2014 - Oct 2017
   company: Distil Networks
@@ -16,7 +22,7 @@
 - dates: Nov 2013 - Oct 2014
   company: Bridge2 Solutions
   location: Atlanta, GA
-  title: Data Architect, Consultant
+  title: Data Architect (Consultant)
   description: "<p>Bridge2 Solutions provides marketing and fulfillment solutions to leading financial institutions, loyalty rewards programs and Fortune 500 companies.  Contracted to evaluate the existing ETL system and develop a new agile and scalable architecture to support the growing data demands and business requirements.<ul type=circle><li>Design, development and implementation of new, high-performance Groovy ETL integration platform utilizing Groovy, Spring, GPars, MongoDB, Spock and Gradle as the primary technologies.</li></br><li>Migrated existing legacy Talend ETL jobs to new ETL platform to include 25+ merchant data feeds and the generation of several client product catalogs.</li></br><li>Responsible for MongoDB design, development and support to include performance tuning and optimization.  Also responsible for Groovy application performance tuning and optimization.</li></br><li>Creation and support of Rackspace Cloud non-production environments to include ~20 CentOS Linux servers.</li></br><li>Provide technical guidance, code reviews and support for Alpharetta and off shore (Moldova) ETL development teams.</li></ul></p>"
   technology: Groovy 2.2.2, MongoDB 2.6, Spring, Spock, GPars, Gradle, Git, JSON, XML, Rackspace, Linux
 
